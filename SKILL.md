@@ -1,10 +1,10 @@
 ---
 name: d2-diagram-creator
-description: Generate D2 diagram code supporting flowcharts, system architecture diagrams, organizational charts, service topology diagrams, state machine diagrams, swimlane diagrams, sequence diagrams, SQL table relationship diagrams, and grid diagrams. Use when users need to: (1) create or generate flowcharts and process diagrams, (2) design system architecture or infrastructure diagrams, (3) build state machine or sequence diagrams, (4) visualize relationships between components, entities or services, (5) create swimlane diagrams for cross-functional processes, (6) design database table structures and ER diagrams, (7) create grid layouts or dashboard designs, or any diagram that can be represented with nodes, connections, and containers in D2 syntax.
+description: "Generate D2 diagram code supporting flowcharts, system architecture diagrams, organizational charts, service topology diagrams, state machine diagrams, swimlane diagrams, sequence diagrams, SQL table relationship diagrams, and grid diagrams. Use when users need to: (1) create or generate flowcharts and process diagrams, (2) design system architecture or infrastructure diagrams, (3) build state machine or sequence diagrams, (4) visualize relationships between components, entities or services, (5) create swimlane diagrams for cross-functional processes, (6) design database table structures and ER diagrams, (7) create grid layouts or dashboard designs, or any diagram that can be represented with nodes, connections, and containers in D2 syntax."
 license: MIT
 metadata:
   author: Fur1na
-  version: "2.0.0"
+  version: "1.0.0"
 ---
 
 # D2 Diagram Creator
